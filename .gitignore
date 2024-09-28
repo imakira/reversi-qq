@@ -1,0 +1,4 @@
+node_modules/
+bin
+src/config.ts
+src/index.js
